@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Oi, tudo bem? Eu sou o <a href="https://www.linkedin.com/in/samuelbellosb/"><i>Samuel Bello</i></a> 😃️ </h1>
+  <h1 align="center">Oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, tudo bem? Eu sou o <a href="https://www.linkedin.com/in/samuelbellosb/"><i>Samuel Bello</i></a> 😃️ </h1>
 </div>
 
 - 🔭 Ainda estou em busca de um job, mas sou Designer Gráfico e estudante de Sistemas de Informação
