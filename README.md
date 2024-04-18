@@ -2,6 +2,8 @@
   <h1 align="center">Oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, tudo bem? Eu sou o <a href="https://www.linkedin.com/in/samuelbellosb/"><i>Samuel Bello</i></a> 😃️ </h1>
 </div>
 
+![snake gif](https://github.com/SamuelBelloSB/SamuelBelloSB/blob/output/github-contribution-grid-snake.gif)
+
 - 🔭 Ainda estou em busca de um job, mas sou Designer Gráfico e estudante de Sistemas de Informação
 - 🌱 Estudando Javascript para desenvolver com React.js
 - 🤔 Estou querendo atuar como Desenvolvedor Front-end React.js e estudar ciência de dados
